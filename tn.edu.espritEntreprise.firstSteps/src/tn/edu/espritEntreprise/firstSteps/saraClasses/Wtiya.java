@@ -5,7 +5,9 @@ public class Wtiya {
 	
 	public int thanni(String x)
 	{
-		return 10000;
+		System.out.println("hello");
+		System.out.println("team 2");
+		return 100;
 	}
 
 	/**
